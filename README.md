@@ -1,9 +1,7 @@
 # a quick and dirty start for six axis
 
-Put video and files in source folder to match similar format to example files
-
-Including create a txt file containing intended sequences
-
+* Put video and files in source folder to match similar format to example files
+    * Including create a txt file containing intended sequences
 * Run through source_to_extracted.ipynb notebook. Set the video_file variable to match the video
 * Run through extracted_to_dataset.ipynb notebook
 * Run through train_extracted.ipynb and train for indeterminate period of time
